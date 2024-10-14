@@ -1,6 +1,5 @@
 # A6_Bruchrechner_GUI
 <a name="readme-top"></a>
-# Kontoverwaltung
 Author: Ganea Marcus-Alin <br>
 LBS Eibiswald | 2aAPC <br>
 Erstellt am 04.10.2024
